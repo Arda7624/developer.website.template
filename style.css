@@ -15,10 +15,22 @@ h1 {
 }
 
 .lisans .telif {
-  
+   -webkit-touch-callout: none;
+   -webkit-user-select: none;
+   -khtml-user-select: none;
+   -moz-user-select: none;
+   -ms-user-select: none;
+   user-select: none;
 }
+
 .lisans a {
-  color: #5cc5f3
+  color: #5cc5f3;
+}
+
+.lisans a:hover {
+    color: #5cc5f3;
+    text-decoration: none;
+    vertical-align: baseline;
 }
 
 ::selection {
