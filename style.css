@@ -10,6 +10,17 @@ h1 {
   color: #0;
 }
 
+.lisans {
+  color: #fff
+}
+
+.lisans .telif {
+  
+}
+.lisans a {
+  color: #5cc5f3
+}
+
 ::selection {
     background-color: #222;
     color: white;
